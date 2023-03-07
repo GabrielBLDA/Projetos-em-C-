@@ -1,0 +1,8 @@
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\bin\Debug\Projeto Lista Pedidos.exe.config
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\bin\Debug\Projeto Lista Pedidos.exe
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\bin\Debug\Projeto Lista Pedidos.pdb
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\obj\Debug\Projeto Lista Pedidos.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\obj\Debug\Projeto Lista Pedidos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\obj\Debug\Projeto Lista Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\obj\Debug\Projeto Lista Pedidos.exe
+C:\Users\DEVELOPER-07\Desktop\Testes\Projeto Lista Pedidos\Projeto Lista Pedidos\obj\Debug\Projeto Lista Pedidos.pdb
