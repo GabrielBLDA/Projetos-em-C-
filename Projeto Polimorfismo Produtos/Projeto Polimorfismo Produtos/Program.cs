@@ -46,7 +46,6 @@ namespace Projeto_Polimorfismo_Produtos
                         break;
                 }
             }
-
             Console.WriteLine();
             foreach (Product prod in list)
             {
