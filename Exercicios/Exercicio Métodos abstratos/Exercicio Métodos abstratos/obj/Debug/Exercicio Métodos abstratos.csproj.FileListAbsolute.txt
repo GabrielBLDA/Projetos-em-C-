@@ -1,0 +1,8 @@
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\bin\Debug\Exercicio Métodos abstratos.exe.config
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\bin\Debug\Exercicio Métodos abstratos.exe
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\bin\Debug\Exercicio Métodos abstratos.pdb
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\obj\Debug\Exercicio Métodos abstratos.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\obj\Debug\Exercicio Métodos abstratos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\obj\Debug\Exercicio Métodos abstratos.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\obj\Debug\Exercicio Métodos abstratos.exe
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Exercicios\Exercicio Métodos abstratos\Exercicio Métodos abstratos\obj\Debug\Exercicio Métodos abstratos.pdb

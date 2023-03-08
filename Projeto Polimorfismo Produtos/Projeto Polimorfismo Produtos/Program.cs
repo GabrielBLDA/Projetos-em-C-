@@ -52,9 +52,7 @@ namespace Projeto_Polimorfismo_Produtos
             {
                 Console.WriteLine(prod.PriceTag());
             }
-
             Console.ReadKey();
-
         }
     }
 }
