@@ -1,0 +1,7 @@
+Maria,maria@gmail.com,3200.00
+Alex,alex@gmail.com,1900.00
+Marco,marco@gmail.com,1700.00
+Mauricio,mauricio@gmail.com,3900.00
+Bob,bob@gmail.com,3.500
+Anna,anna@gmail.com,2800.00
+Gabriel,gabriel@gmail.com,1900.00

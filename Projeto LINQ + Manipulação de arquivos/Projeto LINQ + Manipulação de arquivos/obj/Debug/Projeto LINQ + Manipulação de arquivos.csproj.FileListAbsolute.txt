@@ -1,0 +1,8 @@
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\bin\Debug\Projeto LINQ + Manipulação de arquivos.exe.config
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\bin\Debug\Projeto LINQ + Manipulação de arquivos.exe
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\bin\Debug\Projeto LINQ + Manipulação de arquivos.pdb
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\obj\Debug\Projeto LINQ + Manipulação de arquivos.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\obj\Debug\Projeto LINQ + Manipulação de arquivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\obj\Debug\Projeto LINQ + Manipulação de arquivos.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\obj\Debug\Projeto LINQ + Manipulação de arquivos.exe
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto LINQ + Manipulação de arquivos\Projeto LINQ + Manipulação de arquivos\obj\Debug\Projeto LINQ + Manipulação de arquivos.pdb

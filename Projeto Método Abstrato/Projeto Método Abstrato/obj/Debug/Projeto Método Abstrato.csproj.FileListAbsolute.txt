@@ -1,0 +1,8 @@
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\bin\Debug\Projeto Método Abstrato.exe.config
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\bin\Debug\Projeto Método Abstrato.exe
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\bin\Debug\Projeto Método Abstrato.pdb
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\obj\Debug\Projeto Método Abstrato.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\obj\Debug\Projeto Método Abstrato.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\obj\Debug\Projeto Método Abstrato.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\obj\Debug\Projeto Método Abstrato.exe
+C:\Users\DEVELOPER-07\Desktop\Projetos C#\Projeto Método Abstrato\Projeto Método Abstrato\obj\Debug\Projeto Método Abstrato.pdb
